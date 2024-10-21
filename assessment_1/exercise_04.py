@@ -1,4 +1,9 @@
-  
+"""
+Exercise 4 - Primitive Quiz
+Author: Ethan Grajo
+
+Date completed: September 16 2024
+"""  
 
 """
  to begin with, i wanted to make the code as efficient as possible
