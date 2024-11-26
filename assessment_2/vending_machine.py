@@ -5,6 +5,12 @@
 ---------------------------------
 Started - November 19, 2024
 Finished - November 20, 2024
+
+@@ IMPORTANT NOTE TO ANY EDUCATORS/TUTORS VIEWING @@
+The script will only work as intended together with the item_stock.db file.
+If you decide to test on a local machine, ensure that the database file is
+installed along with this file in the same folder.
+
 """
 
 import sqlite3
