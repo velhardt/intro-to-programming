@@ -1,2 +1,4 @@
+**Ethan Grajo**
+Assessment 2
 
-Included in this folder is 
+Located within this folder are the files that run the vending machine program.
